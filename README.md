@@ -13,7 +13,7 @@ webkit2gtk
 terminus-font
 
 # Installation Guide
-1: do this command: sudo pacman -S base-devel xorg-server xorg-xinit libx11 libxinerama libxft webkit2gtk ttf-ubuntu-font-family
+1: do this command: sudo pacman -S base-devel xorg-server xorg-xinit libx11 libxinerama libxft webkit2gtk terminus-font
 
 2: copy the dwm folder to your home directory and rename the git folder wich is inside of the dwm folder to .git
 
