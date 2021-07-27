@@ -10,7 +10,7 @@ libx11
 libxinerama
 libxft
 webkit2gtk
-ttf-ubuntu-font-family
+terminus-font
 
 # Installation Guide
 1: do this command: sudo pacman -S base-devel xorg-server xorg-xinit libx11 libxinerama libxft webkit2gtk ttf-ubuntu-font-family
